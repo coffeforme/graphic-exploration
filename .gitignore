@@ -1,6 +1,5 @@
 src/three.js-master/
-!src/three.js-master/build/three.min.js
-
+!src/three.js-master/three.min.js
 
 src/images/
 !src/images/textures/moon/moon_1024.jpg
